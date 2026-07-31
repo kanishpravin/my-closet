@@ -1,0 +1,6 @@
+{
+  "name": "My Closet",
+  "description": "Your personal wardrobe manager to track clothes, usage, laundry, calendar history, statistics, and packing lists.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
